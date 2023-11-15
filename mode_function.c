@@ -19,3 +19,4 @@ void mode_function(int m) {
     // Write a prompt symbol ($) to the standard error file descriptor
     fprintf(stderr, "$");
 }
+

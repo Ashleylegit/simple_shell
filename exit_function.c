@@ -29,3 +29,4 @@ void exit_function(char **command, char *line)
   // Exit the program with a success status
   exit(EXIT_SUCCESS);
 }
+

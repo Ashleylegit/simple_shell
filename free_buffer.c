@@ -18,3 +18,4 @@ void free_buffer(char **buf)
 	}
 	free(buf);
 }
+

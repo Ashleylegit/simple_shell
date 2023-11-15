@@ -26,3 +26,4 @@ int checker_function(char **cmd, char *buf)
     // Command is neither a built-in function nor starts with a forward slash
     return 0;
 }
+

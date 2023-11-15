@@ -15,3 +15,4 @@ void environment_function(void)
         printf("%s\n", env[x]);
     }
 }
+

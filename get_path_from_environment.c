@@ -24,3 +24,4 @@ char *get_path_from_environment(void)
     }
     return NULL;
 }
+

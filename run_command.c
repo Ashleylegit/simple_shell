@@ -45,3 +45,4 @@ void run_command(char *cp, char **cmd)
             perror("wait");
     }
 }
+

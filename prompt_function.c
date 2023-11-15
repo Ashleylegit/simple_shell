@@ -13,3 +13,4 @@ void prompt_function(void)
         write(STDERR_FILENO, "$(^_^)$ ", 8);
     }
 }
+

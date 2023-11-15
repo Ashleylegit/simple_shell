@@ -32,3 +32,4 @@ int builtin_handler(char **command, char *line)
     // No built-in command matched, return 0
     return 0;
 }
+

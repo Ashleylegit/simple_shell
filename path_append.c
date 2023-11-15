@@ -79,3 +79,4 @@ char *path_append(char *path, char *command, ErrorCode *error)
 
     return result;
 }
+
